@@ -1,0 +1,8 @@
+node_modules
+.tools
+.git
+.openai
+cloudsim/target
+test-artifacts
+.env
+*.tgz

@@ -1,0 +1,7 @@
+apiVersion: 1
+providers:
+  - name: Verdant
+    folder: Research
+    type: file
+    options:
+      path: /var/lib/grafana/dashboards

@@ -1,0 +1,19 @@
+{
+  "name": "verdant-carbon-cloud-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Reproducible carbon-aware cloud scheduling experiments",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test tests/engine.test.mjs tests/api.test.mjs tests/cloudsim.test.mjs",
+    "build:cloudsim": "node scripts/build-cloudsim.mjs",
+    "test:browser": "node tests/browser.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.65.1"
+  }
+}

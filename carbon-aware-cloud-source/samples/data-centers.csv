@@ -1,0 +1,5 @@
+"id","name","region","country","hosts","cores","ram","mips","idleWatts","maxWatts","pue","carbon","renewable","price","latency","enabled"
+"mumbai","Mumbai","ap-south-1","India","2","8","32","1000","45","250","1.2","650","25","0.105","24","true"
+"frankfurt","Frankfurt","eu-central-1","Germany","2","8","32","1200","40","240","1.15","330","58","0.22","118","true"
+"stockholm","Stockholm","eu-north-1","Sweden","2","8","32","1000","35","220","1.1","45","92","0.12","152","true"
+"virginia","N. Virginia","us-east-1","United States","2","8","32","1400","50","260","1.2","370","42","0.095","208","true"
